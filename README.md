@@ -11,6 +11,13 @@ and coursework.
 - **Tools:** Git, GitHub, MySQL, Firebase, Railway
 - **Concepts:** REST APIs, Relational Database Design, OOP, Data Structures & Algorithms
 
+## Current Goals & Projects
+
+- Building and improving full-stack web applications
+- Developing my personal portfolio and GitHub profile
+- Improving my Java and web development skills
+- Working on projects that strengthen my experience with databases and APIs
+
 <!--
 **ylo16/ylo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
