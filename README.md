@@ -18,6 +18,13 @@ and coursework.
 - Improving my Java and web development skills
 - Working on projects that strengthen my experience with databases and APIs
 
+## Let's Connect!
+
+- **LinkedIn:** (http://www.linkedin.com/in/yair-lopez-22677229a)
+- **Portfolio:** (https://ylo16.github.io)
+- **Email:** (lopez16y@gmail.com)
+
+
 <!--
 **ylo16/ylo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
