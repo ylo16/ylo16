@@ -1,9 +1,15 @@
 # Yair Lopez
-Hello, I'm a Computer Science student, with a minor in Finance, at Saint Xavier University interested in
-software development and building practical applications. I'm currently
-focused on improving my programming skills and gaining experience through
-projects and coursework.
+Hello, I'm a Computer Science student, with a minor in Finance, at Saint Xavier University 
+interested in software development and building practical applications. I'm currently
+focused on improving my programming skills and gaining experience through projects 
+and coursework.
 
+## Technical Skills
+
+- **Languages:** JavaScript, Java, Python, SQL, HTML, CSS
+- **Frameworks:** React, Node.js, Express.js
+- **Tools:** Git, GitHub, MySQL, Firebase, Railway
+- **Concepts:** REST APIs, Relational Database Design, OOP, Data Structures & Algorithms
 
 <!--
 **ylo16/ylo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
