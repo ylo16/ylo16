@@ -24,6 +24,17 @@ and coursework.
 - **Portfolio:** (https://ylo16.github.io)
 - **Email:** (lopez16y@gmail.com)
 
+## A Bit More About Me
+- 4-year student athlete on the Saint Xavier men's soccer team
+- Vice President of ALPFA (Association of Latino Professionals For America) on campus
+- 2x NAIA All-Academic honoree
+- Strong GPA while balancing athletics, leadership, as well as coursework
+
+## Fun Facts
+- ⚽ Been playing soccer competitively for as long as I can remember
+- 💻 Enjoy building projects and learning new technologies
+- 📚 Always looking to improve my technical skills
+- 🚀 Interested in software development and fintech
 
 <!--
 **ylo16/ylo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
